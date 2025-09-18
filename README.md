@@ -10,7 +10,7 @@
   <br/>
   🔭 I’m currently working on <b>Chat App.</b> <br/>
   <br/>
-  🌱 I’m currently learning <b>React, Firebase.</b> <br/>
+  🌱 I’m currently learning <b>React, Firebase, OpenCV.</b> <br/>
   <br/>
   ☕️ I love coffee! <br/>
   <br/>

@@ -36,9 +36,3 @@
   <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity" alt="Unity" />
   <img src="https://img.shields.io/badge/godot-white?style=for-the-badge&logo=godotengine" alt="Godot Engine" />
 </div>
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MhmtBH&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmtBH&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</div>
